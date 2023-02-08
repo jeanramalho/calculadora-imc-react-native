@@ -2,12 +2,12 @@ import React from "react"
 import { View, Text} from "react-native"
 import Form from "../Form"
 
-export default function ResultIMC(props) {
+export default function ResultImc(props) {
     
     return(
         <View>
-            <Text>{props.resultimc}</Text>
             <Text>{props.messageResultImc}</Text>
+            <Text>{props.resultImc}</Text>            
         </View>
     )
 }
