@@ -1,12 +1,12 @@
-import React from "react"
+import React from "react";
 import { View, Text} from "react-native"
-import Styles from "./style"
+import styles from "./style";
 
 export default function Title() {
-    
     return(
-        <View style={Styles.boxTitle}>
-            <Text style={Styles.textTitle}>CALCULADORA IMC</Text>
+        <View style={styles.boxTitle}>
+            <Text style={styles.textTitle}>ONEBITHEALTH</Text>
         </View>
-    )
+    );
+
 }
