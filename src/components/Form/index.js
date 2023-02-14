@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import {Keyboard, Pressable, Share, Vibration, View, Text, TextInput, TouchableOpacity, FlatList} from "react-native"
-import ResultImc from "./ResultImc";
+import ResultImc from "./ResultImc/";
 import styles from "./style";
 
 
