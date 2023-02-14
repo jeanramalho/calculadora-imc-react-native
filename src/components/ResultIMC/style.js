@@ -1,7 +1,10 @@
 import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
-    Form: {
+    formContext: {
+        width: "100%",
+        heigth: "100%",
+        bottom: 0,
         
     },
 })
