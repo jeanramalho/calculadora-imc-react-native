@@ -15,3 +15,5 @@ O componente principal é o app.js
 Utilizamos o useState do react para controlar funções.
 
 Proximo passo criar um app com rotas
+
+No react native temos que usar os componentes específicos para termos melhor performance.
