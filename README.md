@@ -11,3 +11,5 @@ Utilizamos o StyleSheet para estilizar os componentes.
 Utilizamos componentes nativos do react-native como view e text.
 
 O componente principal é o app.js
+
+Utilizamos o useState do react para controlar funções.
