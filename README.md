@@ -16,4 +16,6 @@ Utilizamos o useState do react para controlar funções.
 
 Proximo passo criar um app com rotas
 
-No react native temos que usar os componentes específicos para termos melhor performance. Temos componentes nativos para ajudar no caso de clicar fora do teclado e o teclado sumir, temos componentes que sobem quando o teclado é aberto, para que o teclado não o cubra. Podemos também importar o icone do aplicativo, e a tela de splash, que é a tela que abre antes do app carregar.
+No react native temos que usar os componentes específicos para termos melhor performance. Temos componentes nativos para ajudar no caso de clicar fora do teclado e o teclado sumir, temos componentes que sobem quando o teclado é aberto, para que o teclado não o cubra. Podemos também importar o icone do aplicativo, e a tela de splash, que é a tela que abre antes do app carregar. 
+
+Para o Stylesheet é importante sempre validar o a propriedade passada,
