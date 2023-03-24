@@ -16,4 +16,4 @@ Utilizamos o useState do react para controlar funções.
 
 Proximo passo criar um app com rotas
 
-No react native temos que usar os componentes específicos para termos melhor performance.
+No react native temos que usar os componentes específicos para termos melhor performance. Temos componentes nativos para ajudar no caso de clicar fora do teclado e o teclado sumir,
