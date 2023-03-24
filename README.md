@@ -9,3 +9,5 @@ Utilizamos componentes para criar a unica e principal página do aplicativo.
 Utilizamos o StyleSheet para estilizar os componentes.
 
 Utilizamos componentes nativos do react-native como view e text.
+
+O componente principal é o app.js
