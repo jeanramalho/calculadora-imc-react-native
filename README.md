@@ -13,3 +13,5 @@ Utilizamos componentes nativos do react-native como view e text.
 O componente principal é o app.js
 
 Utilizamos o useState do react para controlar funções.
+
+Proximo passo criar um app com rotas
